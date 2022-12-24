@@ -1,2 +1,3 @@
-# smartcontactmanager
-I developed this project using Spring boot and Angular.
+# SmartContactManager
+I developed this project using back-end Spring boot and front-end Angular.
+
