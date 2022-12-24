@@ -1,8 +1,8 @@
 # SmartContactManager
 I developed this project using Spring boot.
-It is simple web base application which has user component to manage the contact and save,add and update the contact.
+It is simple web base application which has user add their contact and, save, show, update and delete the contact.
 
-Development of the system requires tools like: 
+Requires tools like: 
 • STS IDE 
 • Java 
 • MYSQL Database etc.
